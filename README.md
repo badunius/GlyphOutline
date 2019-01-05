@@ -9,4 +9,4 @@ Yes, no FreeType, yay!
 
 Need some more optimisation and linting.
 
-Oh, and you may find some comments somewhat offensive.
+Oh, and you may find some of the comments somewhat offensive.
